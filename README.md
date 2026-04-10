@@ -151,9 +151,11 @@ class NaYeEm:
 <div align="center">
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Nayeem131136/Nayeem131136/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nayeem131136/Nayeem131136/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nayeem131136/Nayeem131136/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nayeem131136/Nayeem131136/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d78,50:b14eff,100:00f5d4&height=120&section=footer"/>
