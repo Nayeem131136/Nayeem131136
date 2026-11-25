@@ -162,7 +162,7 @@ Freelance client project: dynamic catalog, WhatsApp order hand-off and a Supabas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nayeem131136&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=00f5d4&icon_color=b14eff&text_color=e0e4ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nayeem131136&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00f5d4&icon_color=b14eff&text_color=e0e4ff"/>
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeem131136&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00f5d4&text_color=e0e4ff"/>
 
